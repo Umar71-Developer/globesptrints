@@ -11,8 +11,11 @@
   },
   "dependencies": {
     "@tailwindcss/vite": "^4.3.1",
-    "react": "^19.2.6",
+    "aos": "^2.3.4",
+    "icons": "^1.0.0",
+    "react": "^19.2.7",
     "react-dom": "^19.2.6",
+    "react-scroll": "^1.9.3",
     "tailwindcss": "^4.3.1"
   },
   "devDependencies": {
