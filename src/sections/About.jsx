@@ -22,12 +22,12 @@ function About() {
           <img
             src={about1}
             alt="Travel destination"
-            className="w-[75%] rounded-xl shadow-lg"
+            className="w-[90%] rounded-xl shadow-lg"
           />
           <img
             src={about2}
             alt="Adventure experience"
-            className="w-[55%] rounded-xl shadow-lg absolute bottom-[-40px] left-0 border-4 border-white"
+            className="w-[35%] rounded-xl shadow-lg absolute bottom-[-20px] left-[-10px] border-4 border-white rotate-[-5deg]"
           />
         </div>
 

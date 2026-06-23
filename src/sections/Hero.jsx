@@ -22,7 +22,7 @@ function Hero() {
 
         <p data-aos="zoom-in" data-aos-delay="200" className='text-lg text-center lg:w-[50%] w-full'>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Rerum reiciendis ipsum rem unde tenetur error natus expedita iusto perspiciatis! Voluptatum.</p>
 
-        <button data-aos="slide-up" data-aos-delay="300" className='bg-orange-600 hover:bg-black hover:text-white px-8 py-3 font-semibold capitalize rounded-md mt-5 cursor-pointer'>Book Now</button>
+        <button data-aos="slide-up" data-aos-delay="300" className='bg-orange-600 hover:bg-black hover:text-white text-base px-8 py-3 font-semibold capitalize rounded-md mt-5 cursor-pointer transition-colors duration-300'>Book Now</button>
       </div>
       </div>
   )

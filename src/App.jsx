@@ -9,7 +9,7 @@ import Footer from './sections/Footer'
 
 function App() {
   return (
-    <div className='text-5xl text-red-600 font-fakhwang'>
+    <div>
       <>
       
       <Header />
