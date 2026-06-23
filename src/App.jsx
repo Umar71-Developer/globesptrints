@@ -6,6 +6,7 @@ import Services from './sections/Services'
 import CtaOne from './sections/CtaOne'
 import Packages from './sections/Packages'
 import Features from './sections/Features'
+import Newsletter from './sections/Newsletter'
 import Footer from './sections/Footer'
 
 function App() {
@@ -20,6 +21,7 @@ function App() {
       <CtaOne />
       <Packages />
       <Features />
+      <Newsletter />
       <Footer />
       </>
     </div>
